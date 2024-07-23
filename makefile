@@ -10,7 +10,7 @@ LIBS=-lcurl -uClibc -lc
 
 SRC=requestor.c
 OBJ=$(SRC:.c=.o)
-MAIN=test
+MAIN=httpclient
 
 RM=rm -rf
 
