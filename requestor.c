@@ -1,4 +1,5 @@
-/* I compiled the code using:
+/*
+I compiled the code using:
 /home/issiac/Downloads/buildroot-2024.05//output/host/usr/bin/arm-linux-gcc --sysroot=/home/issiac/Downloads/buildroot-2024.05//output/staging -c requestor.c -o requestor.o
 /home/issiac/Downloads/buildroot-2024.05//output/host/usr/bin/arm-linux-gcc --sysroot=/home/issiac/Downloads/buildroot-2024.05//output/staging  -o httpclient requestor.o  -lcurl -uClibc -lc
 */
